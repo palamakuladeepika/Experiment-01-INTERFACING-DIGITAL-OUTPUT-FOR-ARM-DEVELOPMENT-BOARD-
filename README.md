@@ -294,11 +294,13 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- ## IN OFF STATE:
- 
-
 
  ## IN FINISHING STATE:
+ ![pmc 1](https://github.com/palamakuladeepika/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94154679/78028639-ea09-434e-8255-d82002a77ac7)
+         
+  ## IN OFF STATE:
+ ![WhatsApp Image 2023-08-11 at 8 47 41 PM](https://github.com/palamakuladeepika/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94154679/a0e3d4ae-9fd4-43d8-954d-fbe15980f6d3)
+
  
  
 ## Result :
