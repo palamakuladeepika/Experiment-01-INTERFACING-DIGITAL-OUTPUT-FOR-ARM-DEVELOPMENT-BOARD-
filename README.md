@@ -72,13 +72,13 @@ The main features of LPC2148 include the following.
 ![image](https://user-images.githubusercontent.com/36288975/226189649-b5dff389-91df-4eca-b84a-1127c6562637.png)
 
 ```
-## DEVELOPED BY : PALAMAKULA DEEPIKA
-## REG NO : 212221240035
-## DEPT : AIML
+ DEVELOPED BY : PALAMAKULA DEEPIKA
+ REG NO : 212221240035
+ DEPT : AIML
 
 ```
 
-STM 32 CUBE PROGRAM :
+## STM 32 CUBE PROGRAM :
 ~~~
 #include "main.h"
 void SystemClock_Config(void);
