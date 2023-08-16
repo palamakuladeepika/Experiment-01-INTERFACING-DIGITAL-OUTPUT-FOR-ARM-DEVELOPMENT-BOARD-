@@ -1,7 +1,4 @@
 # Experiment-01-INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
- 
-## DEVELOPED BY : PALAMAKULA DEEPIKA
-## REG NO : 212221240035
 ## Aim: To Interface a Digital output (LED) to ARM development board and write a blink code 
 ## Components required: STM32 CUBE IDE, NUCLEO ARM DEVELOPMENT BOARD  
 ## Theory 
@@ -74,9 +71,11 @@ The main features of LPC2148 include the following.
 12. connect the stm nucleo board and click on run 
 ![image](https://user-images.githubusercontent.com/36288975/226189649-b5dff389-91df-4eca-b84a-1127c6562637.png)
 
-
-
-
+~~~
+## DEVELOPED BY : PALAMAKULA DEEPIKA
+## REG NO : 212221240035
+## DEPT : AIML 
+~~~
 
 
 ## STM 32 CUBE PROGRAM :
@@ -294,12 +293,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
+### Case 1 : OFF State:
+![WhatsApp Image 2023-08-16 at 6 33 04 PM](https://github.com/palamakuladeepika/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94154679/060bcd28-d5f2-4d81-a8c6-ecc5cab323b3)
 
- ## IN FINISHING STATE:
- ![pmc 1](https://github.com/palamakuladeepika/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94154679/78028639-ea09-434e-8255-d82002a77ac7)
-         
-  ## IN OFF STATE:
- ![WhatsApp Image 2023-08-11 at 8 47 41 PM](https://github.com/palamakuladeepika/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94154679/a0e3d4ae-9fd4-43d8-954d-fbe15980f6d3)
+ ### Case 2 : Running State:
+ 
+ ![WhatsApp Image 2023-08-16 at 6 33 04 PM (1)](https://github.com/palamakuladeepika/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/94154679/05d9be52-90a3-451b-9dcb-c3aae0ca0bff)
 
  
  
